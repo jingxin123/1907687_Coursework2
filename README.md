@@ -21,9 +21,9 @@ I Learned a lot about D3, but still can do more further visualization based on D
 
 ## Literature Resources
 
-D3 Tutorial on [KEATS](https://keats.kcl.ac.uk/course/view.php?id=67078)
-Airbnb Visualization in Melbourne by [Liliesterw](https://github.com/liliesterw/liliesterw.github.io)
-D3_stacked_to_grouped by [Buruzaemon](https://github.com/buruzaemon/d3_stacked_to_grouped)
-[Airbnb London](https://www.kaggle.com/labdmitriy/inside-airbnb-london/notebook)
-[Airbnb Tokyo](https://www.kaggle.com/chanamf/tokyo-airbnb-data-analysis-and-price-prediction)
+D3 Tutorial on [KEATS](https://keats.kcl.ac.uk/course/view.php?id=67078)  
+Airbnb Visualization in Melbourne by [Liliesterw](https://github.com/liliesterw/liliesterw.github.io)  
+D3_stacked_to_grouped by [Buruzaemon](https://github.com/buruzaemon/d3_stacked_to_grouped)  
+[Airbnb London](https://www.kaggle.com/labdmitriy/inside-airbnb-london/notebook)  
+[Airbnb Tokyo](https://www.kaggle.com/chanamf/tokyo-airbnb-data-analysis-and-price-prediction)  
 
